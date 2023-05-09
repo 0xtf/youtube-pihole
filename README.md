@@ -5,4 +5,4 @@ A list of domains to block YouTube
 
 PiHole > Adlists
 
-`https://github.com/0xtf/youtube-pihole/blob/main/list.txt` 
+`https://raw.githubusercontent.com/0xtf/youtube-pihole/main/list.txt` 
